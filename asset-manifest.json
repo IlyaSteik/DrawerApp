@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f7d1cb13.chunk.css",
+    "main.js": "./static/js/main.c39754ed.chunk.js",
+    "main.js.map": "./static/js/main.c39754ed.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.090b7ae6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.090b7ae6.js.map",
+    "static/css/2.78f5c875.chunk.css": "./static/css/2.78f5c875.chunk.css",
+    "static/js/2.2fab3d81.chunk.js": "./static/js/2.2fab3d81.chunk.js",
+    "static/js/2.2fab3d81.chunk.js.map": "./static/js/2.2fab3d81.chunk.js.map",
+    "static/css/3.b485433d.chunk.css": "./static/css/3.b485433d.chunk.css",
+    "static/js/3.c628a103.chunk.js": "./static/js/3.c628a103.chunk.js",
+    "static/js/3.c628a103.chunk.js.map": "./static/js/3.c628a103.chunk.js.map",
+    "static/css/4.9be90913.chunk.css": "./static/css/4.9be90913.chunk.css",
+    "static/js/4.d520fe91.chunk.js": "./static/js/4.d520fe91.chunk.js",
+    "static/js/4.d520fe91.chunk.js.map": "./static/js/4.d520fe91.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a6645d40185c7435a638580a1a5ec488.js": "./precache-manifest.a6645d40185c7435a638580a1a5ec488.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.78f5c875.chunk.css.map": "./static/css/2.78f5c875.chunk.css.map",
+    "static/css/3.b485433d.chunk.css.map": "./static/css/3.b485433d.chunk.css.map",
+    "static/css/4.9be90913.chunk.css.map": "./static/css/4.9be90913.chunk.css.map",
+    "static/css/main.f7d1cb13.chunk.css.map": "./static/css/main.f7d1cb13.chunk.css.map",
+    "static/media/Fonts.css": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf",
+    "static/media/Icon.8e925224.svg": "./static/media/Icon.8e925224.svg",
+    "static/media/IconErase.538657b8.svg": "./static/media/IconErase.538657b8.svg",
+    "static/media/IconError.909a833a.svg": "./static/media/IconError.909a833a.svg",
+    "static/media/Story1.png": "./static/media/Story1.c1713922.png",
+    "static/media/Story2.png": "./static/media/Story2.28d56ba9.png",
+    "static/media/Story3.png": "./static/media/Story3.2f47cccb.png"
+  }
+}
