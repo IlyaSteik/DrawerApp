@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92268450c3347f3e770eb36860e17213",
+    "revision": "17e98f371a2ac741a3e48442fb9d87b6",
     "url": "./index.html"
   },
   {
-    "revision": "2b3424177073d8f60b18",
+    "revision": "ff926aea5488d1953bfc",
     "url": "./static/css/2.113785ae.chunk.css"
   },
   {
-    "revision": "d3f0756e15b48faab21d",
-    "url": "./static/css/3.9d5e5bce.chunk.css"
+    "revision": "f43fe11c2b63d4ae1f9b",
+    "url": "./static/css/3.3af08b7d.chunk.css"
   },
   {
-    "revision": "812f42d0a2700b6f2416",
-    "url": "./static/css/4.704427db.chunk.css"
+    "revision": "1000766399590e71f498",
+    "url": "./static/css/4.6b92a895.chunk.css"
   },
   {
-    "revision": "6cb70d87a38a442f8a3f",
-    "url": "./static/css/main.6e736ff5.chunk.css"
+    "revision": "17eb5fcfbf3ba9258c26",
+    "url": "./static/css/main.d02465cb.chunk.css"
   },
   {
-    "revision": "2b3424177073d8f60b18",
-    "url": "./static/js/2.33528c82.chunk.js"
+    "revision": "ff926aea5488d1953bfc",
+    "url": "./static/js/2.6a90dd97.chunk.js"
   },
   {
-    "revision": "d3f0756e15b48faab21d",
-    "url": "./static/js/3.2e33f5fe.chunk.js"
+    "revision": "f43fe11c2b63d4ae1f9b",
+    "url": "./static/js/3.2b65ded7.chunk.js"
   },
   {
-    "revision": "812f42d0a2700b6f2416",
-    "url": "./static/js/4.ef535b0c.chunk.js"
+    "revision": "1000766399590e71f498",
+    "url": "./static/js/4.d853703d.chunk.js"
   },
   {
-    "revision": "6cb70d87a38a442f8a3f",
-    "url": "./static/js/main.f95044da.chunk.js"
+    "revision": "17eb5fcfbf3ba9258c26",
+    "url": "./static/js/main.95849350.chunk.js"
   },
   {
-    "revision": "434c29222f61214c8195",
-    "url": "./static/js/runtime-main.b805a073.js"
+    "revision": "2bcc722d89d37d980014",
+    "url": "./static/js/runtime-main.0f3f9f11.js"
   },
   {
     "revision": "c91fff83336af5897d91fb4179cc5eff",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "546ef30c0fee197a6129d9ce4ea1a64c",
     "url": "./static/media/IconCleanDark.546ef30c.svg"
+  },
+  {
+    "revision": "d6d6db33d4bb966dd4bbfb033f39a38b",
+    "url": "./static/media/IconDone.d6d6db33.svg"
   },
   {
     "revision": "ca744edeca92d76b7d790d17290764c5",
@@ -118,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6b0f2123870ccd0cfbb6edd650ff6f22",
     "url": "./static/media/Manrope-ExtraBold.6b0f2123.ttf"
+  },
+  {
+    "revision": "f661a8056d8cbfa46500658db3ccb646",
+    "url": "./static/media/Manrope-Medium.f661a805.ttf"
   },
   {
     "revision": "2640802b08e8f37e557305e1c116ccd4",
@@ -242,5 +250,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d9521fb6878e132c215281e9494e232a",
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
+  },
+  {
+    "revision": "1c0cb9cc68927ea3bb64faafcf196e0b",
+    "url": "./static/media/cancel-14.1c0cb9cc.svg"
+  },
+  {
+    "revision": "a6a5abf89d84f607af7b48334c4ce744",
+    "url": "./static/media/check-14.a6a5abf8.svg"
+  },
+  {
+    "revision": "03dea953a5a5829841352d649ebf79fe",
+    "url": "./static/media/star-14.03dea953.svg"
+  },
+  {
+    "revision": "f793eab7243d552ed72248601b4824ee",
+    "url": "./static/media/zap.f793eab7.svg"
   }
 ]);
