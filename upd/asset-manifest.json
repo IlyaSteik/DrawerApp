@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.d02465cb.chunk.css",
+    "main.css": "./static/css/main.4b255985.chunk.css",
     "main.js": "./static/js/main.95849350.chunk.js",
     "main.js.map": "./static/js/main.95849350.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.0f3f9f11.js",
@@ -15,12 +15,12 @@
     "static/js/4.d853703d.chunk.js": "./static/js/4.d853703d.chunk.js",
     "static/js/4.d853703d.chunk.js.map": "./static/js/4.d853703d.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.ef51b7e62c1c0c24761313b897eaceae.js": "./precache-manifest.ef51b7e62c1c0c24761313b897eaceae.js",
+    "precache-manifest.0aa62aca8dcd37db6660a2c622eb913d.js": "./precache-manifest.0aa62aca8dcd37db6660a2c622eb913d.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.113785ae.chunk.css.map": "./static/css/2.113785ae.chunk.css.map",
     "static/css/3.3af08b7d.chunk.css.map": "./static/css/3.3af08b7d.chunk.css.map",
     "static/css/4.6b92a895.chunk.css.map": "./static/css/4.6b92a895.chunk.css.map",
-    "static/css/main.d02465cb.chunk.css.map": "./static/css/main.d02465cb.chunk.css.map",
+    "static/css/main.4b255985.chunk.css.map": "./static/css/main.4b255985.chunk.css.map",
     "static/media/Fonts.css": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf",
     "static/media/IconClean.95fdabaa.svg": "./static/media/IconClean.95fdabaa.svg",
     "static/media/IconCleanDark.546ef30c.svg": "./static/media/IconCleanDark.546ef30c.svg",
