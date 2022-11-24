@@ -44,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Alice-Regular.c91fff83.ttf"
   },
   {
-    "revision": "9dbbd6b9979407a9979f18d45592b520",
-    "url": "./static/media/FontsFree-Net-SF-Pro-Rounded-Black.9dbbd6b9.ttf"
-  },
-  {
     "revision": "e64fc9d01f0600a9faf13ce71c15d0ed",
     "url": "./static/media/FontsFree-Net-SF-Pro-Rounded-Bold.e64fc9d0.ttf"
   },
@@ -70,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "05bdf30b8aaa10683c19e73dd0c428da",
     "url": "./static/media/Gilroy-SemiBold.05bdf30b.ttf"
-  },
-  {
-    "revision": "2850d0bd8b77b207c117e8b378acdd9c",
-    "url": "./static/media/IconCancel.2850d0bd.svg"
   },
   {
     "revision": "95fdabaa78e29ec77e275a5a25e9fd67",
@@ -112,10 +104,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/IconStroke.5a6d0589.svg"
   },
   {
-    "revision": "97decd2b78e0890e270894d96efe328f",
-    "url": "./static/media/Inter-Bold.97decd2b.ttf"
-  },
-  {
     "revision": "5ff1f2a9a78730d7d0c309320ff3c9c7",
     "url": "./static/media/Inter-Medium.5ff1f2a9.ttf"
   },
@@ -138,10 +126,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f661a8056d8cbfa46500658db3ccb646",
     "url": "./static/media/Manrope-Medium.f661a805.ttf"
-  },
-  {
-    "revision": "f85bb1cdeaa7c5fbbf3ac8dd263149c3",
-    "url": "./static/media/Manrope-SemiBold.f85bb1cd.ttf"
   },
   {
     "revision": "2640802b08e8f37e557305e1c116ccd4",
@@ -268,84 +252,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf"
   },
   {
-    "revision": "9de83045ee8ecdd4b57ec71c1213b8d4",
-    "url": "./static/media/banana_circle_fill_20.9de83045.svg"
-  },
-  {
     "revision": "1c0cb9cc68927ea3bb64faafcf196e0b",
     "url": "./static/media/cancel-14.1c0cb9cc.svg"
   },
   {
     "revision": "a6a5abf89d84f607af7b48334c4ce744",
     "url": "./static/media/check-14.a6a5abf8.svg"
-  },
-  {
-    "revision": "e0822a5cfd8775c9da3353248b101601",
-    "url": "./static/media/image_10.e0822a5c.png"
-  },
-  {
-    "revision": "9568b8792b86474f4a36d762efe0f233",
-    "url": "./static/media/image_11.9568b879.png"
-  },
-  {
-    "revision": "64a508640c982233f3e56dddc263439c",
-    "url": "./static/media/image_12.64a50864.png"
-  },
-  {
-    "revision": "dcaf1c08fc33e02101c165b9cb9417b8",
-    "url": "./static/media/image_13.dcaf1c08.png"
-  },
-  {
-    "revision": "204a3aa122888fb1c556f208ba820834",
-    "url": "./static/media/image_16.204a3aa1.png"
-  },
-  {
-    "revision": "de915967ae47ae243fe5127763e9f6db",
-    "url": "./static/media/image_17.de915967.png"
-  },
-  {
-    "revision": "c6192d9bf06ee97b7de1a87926289d33",
-    "url": "./static/media/image_18.c6192d9b.png"
-  },
-  {
-    "revision": "fafc33b3e260ce57318469a754f0590d",
-    "url": "./static/media/image_19.fafc33b3.png"
-  },
-  {
-    "revision": "bd7c73660f3df4a9423e1045cee84734",
-    "url": "./static/media/image_20.bd7c7366.png"
-  },
-  {
-    "revision": "3cae976ab1206dd626d2616aa252e624",
-    "url": "./static/media/image_21.3cae976a.png"
-  },
-  {
-    "revision": "33367da8387ee383a9bceee063f1b750",
-    "url": "./static/media/image_22.33367da8.png"
-  },
-  {
-    "revision": "e6ea4b85c7c6420c50e34da831704bf4",
-    "url": "./static/media/image_25.e6ea4b85.png"
-  },
-  {
-    "revision": "5c5cb48efe0e476edc74b844b992e927",
-    "url": "./static/media/image_5.5c5cb48e.png"
-  },
-  {
-    "revision": "5b40e6963d18821cd3155e505e990687",
-    "url": "./static/media/image_6.5b40e696.png"
-  },
-  {
-    "revision": "3b95f90951eadaef361a9ac2e8116a90",
-    "url": "./static/media/image_7.3b95f909.png"
-  },
-  {
-    "revision": "9e0121845b6f767dec66557a5208a24a",
-    "url": "./static/media/image_8.9e012184.png"
-  },
-  {
-    "revision": "ff70be4dfd683788400802431aee0c2a",
-    "url": "./static/media/image_9.ff70be4d.png"
   },
   {
     "revision": "03dea953a5a5829841352d649ebf79fe",
