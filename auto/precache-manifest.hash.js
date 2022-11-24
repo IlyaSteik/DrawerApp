@@ -232,10 +232,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Story2.28d56ba9.png"
   },
   {
-    "revision": "2f47cccba81c84eddde5e14ce4c51a08",
-    "url": "./static/media/Story3.2f47cccb.png"
-  },
-  {
     "revision": "c7c4799ed1182d24a48397cf98074b7f",
     "url": "./static/media/Stupid-Head.c7c4799e.ttf"
   },
