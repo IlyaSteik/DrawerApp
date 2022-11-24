@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f158ee037eb0259a3d49f7380d7659a1",
+    "revision": "47b82f9fc3ac02ec91899e2a50d4caa4",
     "url": "./index.html"
   },
   {
-    "revision": "0362ae65a8376a832ae8",
-    "url": "./static/css/2.2765fcd0.chunk.css"
+    "revision": "51eec3a9c34010c1ac44",
+    "url": "./static/css/2.c78d8c75.chunk.css"
   },
   {
-    "revision": "da5d2283f2144c36e6a3",
-    "url": "./static/css/main.92afe84b.chunk.css"
+    "revision": "6a0ecc24197053719c2d",
+    "url": "./static/css/main.739c0e14.chunk.css"
   },
   {
-    "revision": "0362ae65a8376a832ae8",
-    "url": "./static/js/2.14a4c805.chunk.js"
+    "revision": "51eec3a9c34010c1ac44",
+    "url": "./static/js/2.5ce8e8af.chunk.js"
   },
   {
-    "revision": "da5d2283f2144c36e6a3",
-    "url": "./static/js/main.b41c9c1b.chunk.js"
+    "revision": "6a0ecc24197053719c2d",
+    "url": "./static/js/main.0640e668.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c91fff83336af5897d91fb4179cc5eff",
     "url": "./static/media/Alice-Regular.c91fff83.ttf"
+  },
+  {
+    "revision": "9dbbd6b9979407a9979f18d45592b520",
+    "url": "./static/media/FontsFree-Net-SF-Pro-Rounded-Black.9dbbd6b9.ttf"
   },
   {
     "revision": "e64fc9d01f0600a9faf13ce71c15d0ed",
@@ -52,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Gilroy-SemiBold.05bdf30b.ttf"
   },
   {
+    "revision": "97decd2b78e0890e270894d96efe328f",
+    "url": "./static/media/Inter-Bold.97decd2b.ttf"
+  },
+  {
     "revision": "5ff1f2a9a78730d7d0c309320ff3c9c7",
     "url": "./static/media/Inter-Medium.5ff1f2a9.ttf"
   },
@@ -64,8 +72,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Inter-SemiBold.ec60b23f.ttf"
   },
   {
+    "revision": "850ffaa2af959cbc68e9f8ab6ccbf4db",
+    "url": "./static/media/Manrope-Bold.850ffaa2.ttf"
+  },
+  {
     "revision": "6b0f2123870ccd0cfbb6edd650ff6f22",
     "url": "./static/media/Manrope-ExtraBold.6b0f2123.ttf"
+  },
+  {
+    "revision": "f661a8056d8cbfa46500658db3ccb646",
+    "url": "./static/media/Manrope-Medium.f661a805.ttf"
+  },
+  {
+    "revision": "f85bb1cdeaa7c5fbbf3ac8dd263149c3",
+    "url": "./static/media/Manrope-SemiBold.f85bb1cd.ttf"
   },
   {
     "revision": "2640802b08e8f37e557305e1c116ccd4",
