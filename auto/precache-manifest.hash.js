@@ -276,6 +276,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/check-14.a6a5abf8.svg"
   },
   {
+    "revision": "4ccccc04e18e891e7766d18600dfb2c4",
+    "url": "./static/media/global_canvas.4ccccc04.png"
+  },
+  {
     "revision": "03dea953a5a5829841352d649ebf79fe",
     "url": "./static/media/star-14.03dea953.svg"
   },
