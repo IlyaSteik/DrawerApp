@@ -27,7 +27,6 @@
     "static/media/IconCleanDark.546ef30c.svg": "./static/media/IconCleanDark.546ef30c.svg",
     "static/media/IconDone.d6d6db33.svg": "./static/media/IconDone.d6d6db33.svg",
     "static/media/IconDonut.ca744ede.svg": "./static/media/IconDonut.ca744ede.svg",
-    "static/media/IconErase.538657b8.svg": "./static/media/IconErase.538657b8.svg",
     "static/media/IconErase2.d1d8758f.svg": "./static/media/IconErase2.d1d8758f.svg",
     "static/media/IconErase2_20.bd03b526.svg": "./static/media/IconErase2_20.bd03b526.svg",
     "static/media/IconErrorClean.bf4910b8.svg": "./static/media/IconErrorClean.bf4910b8.svg",
@@ -35,10 +34,6 @@
     "static/media/Story1.png": "./static/media/Story1.c1713922.png",
     "static/media/Story2.png": "./static/media/Story2.28d56ba9.png",
     "static/media/banana_circle_fill_20.9de83045.svg": "./static/media/banana_circle_fill_20.9de83045.svg",
-    "static/media/cancel-14.1c0cb9cc.svg": "./static/media/cancel-14.1c0cb9cc.svg",
-    "static/media/check-14.a6a5abf8.svg": "./static/media/check-14.a6a5abf8.svg",
-    "static/media/global_canvas.png": "./static/media/global_canvas.4ccccc04.png",
-    "static/media/star-14.03dea953.svg": "./static/media/star-14.03dea953.svg",
-    "static/media/zap.f793eab7.svg": "./static/media/zap.f793eab7.svg"
+    "static/media/global_canvas.png": "./static/media/global_canvas.4ccccc04.png"
   }
 }
