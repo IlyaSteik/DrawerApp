@@ -40,6 +40,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/runtime-main.hash.js"
   },
   {
+    "revision": "3c392fb2c89aeb42f6e4e04f12aacdb6",
+    "url": "./static/media/1.3c392fb2.svg"
+  },
+  {
+    "revision": "22d9f180d8244fe1994924230d3e7848",
+    "url": "./static/media/2.22d9f180.svg"
+  },
+  {
+    "revision": "177f101dd3eadcd09e64c5b9f30dc94b",
+    "url": "./static/media/3.177f101d.svg"
+  },
+  {
+    "revision": "a480770f53e4e78c15d7eb326add75e2",
+    "url": "./static/media/4.a480770f.svg"
+  },
+  {
+    "revision": "9ef839c876401a4a8e99d69eb41ebdec",
+    "url": "./static/media/5.9ef839c8.svg"
+  },
+  {
     "revision": "c91fff83336af5897d91fb4179cc5eff",
     "url": "./static/media/Alice-Regular.c91fff83.ttf"
   },
@@ -262,6 +282,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9de83045ee8ecdd4b57ec71c1213b8d4",
     "url": "./static/media/banana_circle_fill_20.9de83045.svg"
+  },
+  {
+    "revision": "3c862ec7eb35c894accab8bf6df8e160",
+    "url": "./static/media/bp-background-2.3c862ec7.svg"
+  },
+  {
+    "revision": "cd124dfb44b8604a45086af323dab751",
+    "url": "./static/media/bp-background-3.cd124dfb.svg"
+  },
+  {
+    "revision": "cdd6efdfa8fef98f9f2b63cea66d8071",
+    "url": "./static/media/bp.cdd6efdf.svg"
+  },
+  {
+    "revision": "d87a6156efaebd9534bb5a05b177ef83",
+    "url": "./static/media/gifts_panel.d87a6156.png"
   },
   {
     "revision": "4ccccc04e18e891e7766d18600dfb2c4",

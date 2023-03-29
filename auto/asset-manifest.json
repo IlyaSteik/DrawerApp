@@ -21,6 +21,11 @@
     "static/css/3.hash.chunk.css.map": "./static/css/3.hash.chunk.css.map",
     "static/css/4.hash.chunk.css.map": "./static/css/4.hash.chunk.css.map",
     "static/css/main.hash.chunk.css.map": "./static/css/main.hash.chunk.css.map",
+    "static/media/1.svg": "./static/media/1.3c392fb2.svg",
+    "static/media/2.svg": "./static/media/2.22d9f180.svg",
+    "static/media/3.svg": "./static/media/3.177f101d.svg",
+    "static/media/4.svg": "./static/media/4.a480770f.svg",
+    "static/media/5.svg": "./static/media/5.9ef839c8.svg",
     "static/media/Fonts.css": "./static/media/WC-Mano-Negra-Bta.d9521fb6.otf",
     "static/media/IconCancel.2850d0bd.svg": "./static/media/IconCancel.2850d0bd.svg",
     "static/media/IconClean.95fdabaa.svg": "./static/media/IconClean.95fdabaa.svg",
@@ -34,6 +39,10 @@
     "static/media/Story1.png": "./static/media/Story1.c1713922.png",
     "static/media/Story2.png": "./static/media/Story2.28d56ba9.png",
     "static/media/banana_circle_fill_20.9de83045.svg": "./static/media/banana_circle_fill_20.9de83045.svg",
+    "static/media/bp-background-2.svg": "./static/media/bp-background-2.3c862ec7.svg",
+    "static/media/bp-background-3.svg": "./static/media/bp-background-3.cd124dfb.svg",
+    "static/media/bp.svg": "./static/media/bp.cdd6efdf.svg",
+    "static/media/gifts_panel.png": "./static/media/gifts_panel.d87a6156.png",
     "static/media/global_canvas.png": "./static/media/global_canvas.4ccccc04.png"
   }
 }
