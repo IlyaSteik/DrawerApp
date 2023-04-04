@@ -298,9 +298,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d87a6156efaebd9534bb5a05b177ef83",
     "url": "./static/media/gifts_panel.d87a6156.png"
-  },
-  {
-    "revision": "4ccccc04e18e891e7766d18600dfb2c4",
-    "url": "./static/media/global_canvas.4ccccc04.png"
   }
 ]);
