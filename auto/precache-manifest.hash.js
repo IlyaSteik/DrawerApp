@@ -104,6 +104,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/FontsFree-Net-SF-Pro-Rounded-Bold.e64fc9d0.ttf"
   },
   {
+    "revision": "8de22cfef3934795d851f1b4e0d66d97",
+    "url": "./static/media/FontsFree-Net-SF-Pro-Rounded-Heavy.8de22cfe.ttf"
+  },
+  {
     "revision": "907212050e2a59fbb0aa4cb95b7ca4c0",
     "url": "./static/media/FontsFree-Net-SF-Pro-Rounded-Semibold.90721205.ttf"
   },
