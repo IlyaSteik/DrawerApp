@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47b82f9fc3ac02ec91899e2a50d4caa4",
+    "revision": "2ca3bd82edf9ebbcc71050ddf33e95fc",
     "url": "./index.html"
   },
   {
-    "revision": "51eec3a9c34010c1ac44",
-    "url": "./static/css/2.c78d8c75.chunk.css"
+    "revision": "da84814c22a34f5a8f79",
+    "url": "./static/css/2.d4488d67.chunk.css"
   },
   {
-    "revision": "6a0ecc24197053719c2d",
-    "url": "./static/css/main.739c0e14.chunk.css"
+    "revision": "9c395c7ae81869bda05e",
+    "url": "./static/css/main.56945dff.chunk.css"
   },
   {
-    "revision": "51eec3a9c34010c1ac44",
-    "url": "./static/js/2.5ce8e8af.chunk.js"
+    "revision": "da84814c22a34f5a8f79",
+    "url": "./static/js/2.227d9087.chunk.js"
   },
   {
-    "revision": "6a0ecc24197053719c2d",
-    "url": "./static/js/main.0640e668.chunk.js"
+    "revision": "9c395c7ae81869bda05e",
+    "url": "./static/js/main.80de9445.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e64fc9d01f0600a9faf13ce71c15d0ed",
     "url": "./static/media/FontsFree-Net-SF-Pro-Rounded-Bold.e64fc9d0.ttf"
+  },
+  {
+    "revision": "8de22cfef3934795d851f1b4e0d66d97",
+    "url": "./static/media/FontsFree-Net-SF-Pro-Rounded-Heavy.8de22cfe.ttf"
   },
   {
     "revision": "907212050e2a59fbb0aa4cb95b7ca4c0",
@@ -56,8 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Gilroy-SemiBold.05bdf30b.ttf"
   },
   {
+    "revision": "6385452a00f016bcd76e74c09fe641f8",
+    "url": "./static/media/Inter-Black.6385452a.ttf"
+  },
+  {
     "revision": "97decd2b78e0890e270894d96efe328f",
     "url": "./static/media/Inter-Bold.97decd2b.ttf"
+  },
+  {
+    "revision": "bf2cf3894573bf5c075d9a377abf32d5",
+    "url": "./static/media/Inter-ExtraBold.bf2cf389.ttf"
   },
   {
     "revision": "5ff1f2a9a78730d7d0c309320ff3c9c7",
