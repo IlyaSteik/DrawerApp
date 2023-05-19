@@ -284,14 +284,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/SFUIText-Regular.888e0f3f.otf"
   },
   {
-    "revision": "c17139226e8bdce535a4c5c98ded65e7",
-    "url": "./static/media/Story1.c1713922.png"
-  },
-  {
-    "revision": "28d56ba982421c612123bf272f97f529",
-    "url": "./static/media/Story2.28d56ba9.png"
-  },
-  {
     "revision": "c7c4799ed1182d24a48397cf98074b7f",
     "url": "./static/media/Stupid-Head.c7c4799e.ttf"
   },
