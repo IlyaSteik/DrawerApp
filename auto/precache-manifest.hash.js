@@ -320,6 +320,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/banana_circle_fill_20.9de83045.svg"
   },
   {
+    "revision": "9891ccc5dffbe476ac1aeb5a0caaa6dc",
+    "url": "./static/media/bg_desktop.9891ccc5.png"
+  },
+  {
+    "revision": "47a40d03b1aa901a25c75822f94138b0",
+    "url": "./static/media/bg_mobile.47a40d03.png"
+  },
+  {
     "revision": "3c862ec7eb35c894accab8bf6df8e160",
     "url": "./static/media/bp-background-2.3c862ec7.svg"
   },
