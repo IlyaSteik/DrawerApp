@@ -360,7 +360,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/global_canvas.4ccccc04.png"
   },
   {
-    "revision": "2f092d3f13a5e97a960a00e1d2a4547a",
-    "url": "./static/media/video_background.2f092d3f.webp"
+    "revision": "05efa19050f091aa59d618bfb9640378",
+    "url": "./static/media/video_background.05efa190.webp"
   }
 ]);
