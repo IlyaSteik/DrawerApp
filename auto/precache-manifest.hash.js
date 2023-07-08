@@ -340,6 +340,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/bp.cdd6efdf.svg"
   },
   {
+    "revision": "7929e119e727bb8360b894f8cdab1e74",
+    "url": "./static/media/camera_400.7929e119.png"
+  },
+  {
     "revision": "1c8997e416cdcfd0cc6ef5a1ad92f6d6",
     "url": "./static/media/clip_background.1c8997e4.png"
   },
