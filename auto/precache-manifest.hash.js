@@ -344,8 +344,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/camera_400.7929e119.png"
   },
   {
-    "revision": "1c8997e416cdcfd0cc6ef5a1ad92f6d6",
-    "url": "./static/media/clip_background.1c8997e4.png"
+    "revision": "a545f3e3b89f949ce1ea1e4bc851b754",
+    "url": "./static/media/clip_background.a545f3e3.webp"
   },
   {
     "revision": "26e5769d106468c4e2213da49a43baca",
@@ -354,5 +354,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d87a6156efaebd9534bb5a05b177ef83",
     "url": "./static/media/gifts_panel.d87a6156.png"
+  },
+  {
+    "revision": "4ccccc04e18e891e7766d18600dfb2c4",
+    "url": "./static/media/global_canvas.4ccccc04.png"
+  },
+  {
+    "revision": "2f092d3f13a5e97a960a00e1d2a4547a",
+    "url": "./static/media/video_background.2f092d3f.webp"
   }
 ]);
