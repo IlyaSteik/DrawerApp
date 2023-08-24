@@ -316,6 +316,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/banana_circle_fill_20.9de83045.svg"
   },
   {
+    "revision": "1e2a2e0418f4b991164bada40f7a620e",
+    "url": "./static/media/bg.1e2a2e04.png"
+  },
+  {
     "revision": "9891ccc5dffbe476ac1aeb5a0caaa6dc",
     "url": "./static/media/bg_desktop.9891ccc5.png"
   },
