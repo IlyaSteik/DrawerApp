@@ -404,6 +404,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/global_canvas.4ccccc04.png"
   },
   {
+    "revision": "21c9f098c07de6333fd2bfec5ebf449b",
+    "url": "./static/media/icon_avocado_32.21c9f098.svg"
+  },
+  {
+    "revision": "c5d5f71cdb68791cfc282d6acbc608aa",
+    "url": "./static/media/icon_coin_32.c5d5f71c.svg"
+  },
+  {
+    "revision": "23797a86d2c93702171e8d0abacaf674",
+    "url": "./static/media/icon_gift_28.23797a86.svg"
+  },
+  {
+    "revision": "cdd2bce64a21cd1687c01bb0b0820a7a",
+    "url": "./static/media/icon_label_32.cdd2bce6.svg"
+  },
+  {
+    "revision": "a34a890a5180aa567279b1d4e829efe1",
+    "url": "./static/media/icon_locked_32.a34a890a.svg"
+  },
+  {
     "revision": "b504b67bd0d732127eecee7aff118169",
     "url": "./static/media/picture_actions.b504b67b.webp"
   },
