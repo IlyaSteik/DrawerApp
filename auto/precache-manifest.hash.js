@@ -424,6 +424,46 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/icon_locked_32.a34a890a.svg"
   },
   {
+    "revision": "2a8a20d931a26884cf35fcb434f3345e",
+    "url": "./static/media/marathon-art.2a8a20d9.webp"
+  },
+  {
+    "revision": "59248d0e816974257b9d5a82ed3bd73b",
+    "url": "./static/media/marathon_art-1.59248d0e.webp"
+  },
+  {
+    "revision": "9488bb1d6a7ce84f1aaa85b15cd90d1a",
+    "url": "./static/media/marathon_art-2.9488bb1d.webp"
+  },
+  {
+    "revision": "c6388cb5cdb63d05b6bcb4c07ccfdc6f",
+    "url": "./static/media/marathon_art-3.c6388cb5.webp"
+  },
+  {
+    "revision": "64cf55c80601d05579ba5621ab6da6e4",
+    "url": "./static/media/marathon_art-4.64cf55c8.webp"
+  },
+  {
+    "revision": "377797a2d72fd0e9fa7ec7e75dad13b7",
+    "url": "./static/media/marathon_art-5.377797a2.webp"
+  },
+  {
+    "revision": "cd79cf983707ebdb258fb25ecf9db9ea",
+    "url": "./static/media/marathon_art-6.cd79cf98.webp"
+  },
+  {
+    "revision": "76f3d7459ccbc406af2aef8c010ba8d0",
+    "url": "./static/media/marathon_art-7.76f3d745.webp"
+  },
+  {
+    "revision": "7cdaac52e1b76672f7743e22e25b82ae",
+    "url": "./static/media/marathon_art-8.7cdaac52.webp"
+  },
+  {
+    "revision": "3e4fae0420e41115999a51fa05941286",
+    "url": "./static/media/marathon_art-9.3e4fae04.webp"
+  },
+  {
     "revision": "b504b67bd0d732127eecee7aff118169",
     "url": "./static/media/picture_actions.b504b67b.webp"
   },
