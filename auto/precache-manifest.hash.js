@@ -424,10 +424,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/icon_locked_32.a34a890a.svg"
   },
   {
-    "revision": "2a8a20d931a26884cf35fcb434f3345e",
-    "url": "./static/media/marathon-art.2a8a20d9.webp"
-  },
-  {
     "revision": "59248d0e816974257b9d5a82ed3bd73b",
     "url": "./static/media/marathon_art-1.59248d0e.webp"
   },
